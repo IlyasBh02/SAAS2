@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/safiy/OneDrive/Bureau/SAAS2/challenge",
-      "program": "c:/Users/safiy/OneDrive/Bureau/SAAS2/challenge/build/Debug/outDebug",
+      "cwd": "c:/Users/safiy/OneDrive/Bureau/SAAS2/challenge/day1",
+      "program": "c:/Users/safiy/OneDrive/Bureau/SAAS2/challenge/day1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
